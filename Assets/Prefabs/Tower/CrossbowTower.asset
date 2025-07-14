@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45cdb1f1a94ce404fbf796d02c5c8a9b, type: 3}
+  m_Name: CrossbowTower
+  m_EditorClassIdentifier: 
+  GoldCost: 20
+  TowerSprite: {fileID: 21300000, guid: e444c7166a124f3438deba52f5f4ea61, type: 3}
+  GUISprite: {fileID: 21300000, guid: d8a77ba03c7a2da4a87f7797351a264d, type: 3}
+  turretProperties: {fileID: 11400000, guid: b0b2ed854cb3305419472091cd4d6c23, type: 2}
+  requiresUpgrade: {fileID: 0}
+  requiredUpgradeLevel: 2
+  m_UpgradeTo: []

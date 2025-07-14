@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45cdb1f1a94ce404fbf796d02c5c8a9b, type: 3}
+  m_Name: ArrowTower
+  m_EditorClassIdentifier: 
+  GoldCost: 15
+  TowerSprite: {fileID: 21300000, guid: a1901bac7d041374284f4d1e213c6a6f, type: 3}
+  GUISprite: {fileID: 21300000, guid: 94ecd9bc8343f2b4aac290d76506d639, type: 3}
+  turretProperties: {fileID: 11400000, guid: 233e6a731cdf3984a9207741ef5484f4, type: 2}
+  requiresUpgrade: {fileID: 0}
+  requiredUpgradeLevel: 0
+  m_UpgradeTo: []
